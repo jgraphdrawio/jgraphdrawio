@@ -1,4 +1,9 @@
-## Hi there 👋
+# 💫 About Me:
+❤️🧑🏽‍💻Programming enthusiast<br>❤️🔐Security enthusiast<br>⚡😼Active GitHub user<br>⚡📚Always eager to learn and improve
+
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+
 
 <!--
 **jgraphdrawio/jgraphdrawio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
